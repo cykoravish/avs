@@ -91,13 +91,13 @@ export default function Amenities() {
 
         <div className="grid grid-cols-1 md:grid-cols-4 md:grid-rows-[240px_240px] gap-3">
           <TiltTile
-            image="/images/amenity-pool.jpg"
+            image="https://images.unsplash.com/photo-1746475611952-1b12c680f3bc?auto=format&fit=crop&w=1200&q=80"
             eyebrow="Pool & Restobar"
             title="Swimming pool with poolside restobar"
             className="md:col-span-2 md:row-span-2 h-[280px] md:h-auto"
           />
           <TiltTile
-            image="/images/amenity-banquet.jpg"
+            image="https://images.unsplash.com/photo-1746739802530-b490abdfc8e6?auto=format&fit=crop&w=1200&q=80"
             eyebrow="Banquet & Celebrations"
             title="Banquet halls & party halls"
             className="md:col-span-1 md:row-span-2 h-[280px] md:h-auto"
@@ -122,13 +122,13 @@ export default function Amenities() {
           </div>
 
           <TiltTile
-            image="/images/amenity-security.jpg"
+            image="https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1200&q=80"
             eyebrow="24×7 Security"
             title="CCTV monitored, always on watch"
             className="md:col-span-2 h-[200px] md:h-[240px]"
           />
           <TiltTile
-            image="/images/amenity-ev.jpg"
+            image="https://images.unsplash.com/photo-1755555707515-ac64ed155dfa?auto=format&fit=crop&w=1200&q=80"
             eyebrow="EV Ready"
             title="On-site electric vehicle charging"
             className="md:col-span-2 h-[200px] md:h-[240px]"

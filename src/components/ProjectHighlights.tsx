@@ -8,21 +8,21 @@ const PANELS = [
     title: "Storefronts built for footfall.",
     copy: "Prominent-visibility retail modules and hypermarket-ready floor plates on a live NH-58 high street.",
     detail: "Showrooms · Hypermarkets · Studio retail units with ample frontage",
-    image: "/images/panel-retail.jpg",
+    image: "https://images.unsplash.com/photo-1758448500717-2e4bcd79108b?auto=format&fit=crop&w=1400&q=80",
   },
   {
     tag: "02 — Stay",
     title: "Rooms with a reason to stay.",
     copy: "A hotel, guest rooms and service apartments designed for the modern business traveller.",
     detail: "Hotel · Guest rooms · Service apartments",
-    image: "/images/panel-hospitality.jpg",
+    image: "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1400&q=80",
   },
   {
     tag: "03 — Work",
     title: "Offices that mean business.",
     copy: "Dedicated office spaces and business suites with their own access, away from the retail rush.",
     detail: "Office spaces · Business suites · Dedicated entry & lifts",
-    image: "/images/panel-business.jpg",
+    image: "https://images.unsplash.com/photo-1693625700727-b548ca8f5679?auto=format&fit=crop&w=1400&q=80",
   },
 ];
 
