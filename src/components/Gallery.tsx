@@ -4,10 +4,22 @@ import { useEffect, useState } from "react";
 
 const IMAGES = [
   { src: "/images/hero-bg.jpg", alt: "AVS High Street, dusk exterior" },
-  { src: "/images/panel-retail.jpg", alt: "Retail terrace and dining" },
-  { src: "/images/panel-hospitality.jpg", alt: "Hotel guest room" },
-  { src: "/images/amenity-pool.jpg", alt: "Rooftop pool & restobar" },
-  { src: "/images/amenity-banquet.jpg", alt: "Banquet & party hall" },
+  {
+    src: "https://images.unsplash.com/photo-1758448500717-2e4bcd79108b?auto=format&fit=crop&w=1200&q=80",
+    alt: "Retail arcade interior",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+    alt: "Hotel guest room",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1746475611952-1b12c680f3bc?auto=format&fit=crop&w=1200&q=80",
+    alt: "Rooftop pool & restobar",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1746739802530-b490abdfc8e6?auto=format&fit=crop&w=1200&q=80",
+    alt: "Banquet & party hall",
+  },
 ];
 
 export default function Gallery() {
